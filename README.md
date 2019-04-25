@@ -1,6 +1,6 @@
 # liri-node-app
 
-##This is a terminal based app. The uses commands in the terminal to generate an appropriate output. The commands are:
+##This is a terminal based app. The uses commands in the terminal to generate an appropriate output. The commands are:##
 
 *conert-this
   *Enter concer-this followed by an artist and see upcoming concerts
